@@ -1,0 +1,6 @@
+{
+	"name": "pc-casa",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
