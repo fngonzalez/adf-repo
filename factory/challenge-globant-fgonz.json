@@ -1,0 +1,9 @@
+{
+	"name": "challenge-globant-fgonz",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "09b74d3f-478a-4cb0-8008-c90e9ee84101",
+		"tenantId": "4c818f79-ab84-4552-9b7c-2fe715b0d0d5"
+	}
+}
